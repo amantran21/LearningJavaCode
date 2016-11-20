@@ -1,0 +1,35 @@
+import java.util.ArrayList;
+import java.util.List;
+
+/**
+ * 
+ */
+
+/**
+ * @author Debarpan Mukherjee
+ *
+ */
+public class ArLitoStAr {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		List al = new ArrayList<String>();
+		
+		al.add("One");
+		al.add("Two");
+		al.add("Three");
+		al.add("Four");
+		al.add("Five");
+		
+		String[] stringArrayObject = new String[al.size()];
+		
+		al.toArray(stringArrayObject);
+		
+		for(String temp : stringArrayObject)
+			System.out.println(temp);
+	}
+
+}
