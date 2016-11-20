@@ -18,27 +18,27 @@
 	</list>
 	<section name="GitImportWizard">
 	</section>
+	<section name="GitCommitMessageComponent">
+	</section>
 	<section name="org.eclipse.egit.ui.internal.dialogs.MergeTargetSelectionDialog.dialogBounds">
 		<item value="875" key="DIALOG_WIDTH"/>
 		<item value="-151" key="DIALOG_Y_ORIGIN"/>
-		<item value="859" key="DIALOG_HEIGHT"/>
 		<item value="362" key="DIALOG_X_ORIGIN"/>
+		<item value="859" key="DIALOG_HEIGHT"/>
 		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
-	</section>
-	<section name="GitCommitMessageComponent">
 	</section>
 	<section name="org.eclipse.egit.ui.internal.pull.PullResultDialog.dialogBounds">
 		<item value="1302" key="DIALOG_WIDTH"/>
 		<item value="35" key="DIALOG_Y_ORIGIN"/>
-		<item value="-139" key="DIALOG_X_ORIGIN"/>
 		<item value="524" key="DIALOG_HEIGHT"/>
+		<item value="-139" key="DIALOG_X_ORIGIN"/>
 		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
 	</section>
 	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
 		<item value="875" key="DIALOG_WIDTH"/>
 		<item value="86" key="DIALOG_Y_ORIGIN"/>
-		<item value="503" key="DIALOG_HEIGHT"/>
 		<item value="362" key="DIALOG_X_ORIGIN"/>
+		<item value="503" key="DIALOG_HEIGHT"/>
 		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
 		<list key="sashWeights">
 			<item value="600"/>
@@ -46,8 +46,8 @@
 		</list>
 	</section>
 	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
-		<item value="200,200" key="HORIZONTAL_SASH_FORM_WEIGHT"/>
+		<item value="500,500" key="HORIZONTAL_SASH_FORM_WEIGHT"/>
 		<item value="true" key="sortItemState"/>
-		<item value="722,264" key="STAGING_SASH_FORM_WEIGHT"/>
+		<item value="732,267" key="STAGING_SASH_FORM_WEIGHT"/>
 	</section>
 </section>
